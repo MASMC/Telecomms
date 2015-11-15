@@ -1,0 +1,15 @@
+//Gives Titles to some jobs
+if ($job == "Medical Doctor" || $job == "Chief Medical Officer" || $job == "Virologist") //Checks job name
+{
+$source = "Dr. " + $source; //Adds Dr. before name
+}
+if ($job == "Clown") //Check job
+{
+$source = "Clown"; //Change name to Clown
+}
+if ($job == "No id") //Check for ID
+{
+$source = "Anonymous"; //If no ID, changes name to Anonymous, even for AI
+}
+//$source == $source + " (" + $job + ")"; //Adds job title to name (Uncomment to use)
+//Created by MASMC
