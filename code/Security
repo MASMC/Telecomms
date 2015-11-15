@@ -1,0 +1,3 @@
+//Code for a security Common
+if ($job == "Security Officer" || $job == "Warden" || $job == "Head of Security") //Check for Sec. Member
+{
