@@ -1,0 +1,5 @@
+//Mutes clowns (Those annoying bastards)
+if ($job == "Clown")
+{
+$pass = false;
+}
