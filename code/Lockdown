@@ -1,0 +1,8 @@
+if ($job != "Security Officer" || $job != "Head of Security" || $job != "Captain")
+{
+$pass = false;
+}
+if ($job == "Head of Security" || $job == "Captain")
+{
+$source = "Sir " + $source;
+}
