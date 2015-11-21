@@ -1,0 +1,5 @@
+if($job != NULL)
+{
+$pass = false;
+}
+//Hope nobody clears the buffer!
