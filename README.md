@@ -1,5 +1,5 @@
 # REPOSITORY ARCHIVED
-This feautre got removed from SS13 a long time ago. I have no idea why it took me this long to archive it.
+This feature got removed from SS13 a long time ago. I have no idea why it took me this long to archive it.
 
 # Telecomms
 Telecomms codes
